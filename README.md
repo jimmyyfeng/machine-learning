@@ -1,2 +1,2 @@
 # machine-learning
-Here is some of machine learning demos.
+常见机器学习算法的推导，以及python实现
